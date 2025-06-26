@@ -5,5 +5,5 @@
 *Academic year: 2024/2025*
 
 
-**Raw data for total accesses in 2022/2023 is available at:**
+**Raw data is available at:**
 https://drive.google.com/drive/folders/1VJsHKZrqdJ_-2Rm5BPdqTwxBRHg89mFM?usp=drive_link

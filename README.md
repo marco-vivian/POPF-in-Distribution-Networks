@@ -4,12 +4,13 @@
 
 *Academic year: 2024/2025*
 
+**Thesis text will soon be available at:**
+https://www.politesi.polimi.it/
+
+
 
 **Raw data is available at:**
 https://data.mendeley.com/datasets/pns69yxgrp/2
 
 **Pre-processed data is available at:**
 https://drive.google.com/drive/folders/1VJsHKZrqdJ_-2Rm5BPdqTwxBRHg89mFM?usp=drive_link
-
-**Thesis text will soon be available at:**
-https://www.politesi.polimi.it/

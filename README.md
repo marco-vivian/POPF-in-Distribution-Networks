@@ -4,9 +4,8 @@
 
 *Academic year: 2024/2025*
 
-**Thesis text will soon be available at:**
-https://www.politesi.polimi.it/
-
+**Thesis text is available at:**
+https://www.politesi.polimi.it/handle/10589/240205
 
 
 **Raw data is available at:**

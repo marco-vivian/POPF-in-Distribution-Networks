@@ -1,3 +1,5 @@
+The meter_info.csv file contains metadata for individual electricity meters. Each row corresponds to a unique meter and includes its identifier, the contracted (reserved) power capacity, and the associated ZIP code. The dataset is used to link consumption profiles to network constraints and geographic information in distribution grid simulations.
+
 **Raw data is available at:**
 https://data.mendeley.com/datasets/pns69yxgrp/2
 
